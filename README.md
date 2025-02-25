@@ -49,6 +49,12 @@ agile models
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Role and Responsibility of Software Project Manager
+Planning Everything from Execution to Delivery.
+Oversee the Software Development Team.
+Delegating Work Effectively.
+Monitoring Progress and Tracking Roadblocks.
+Managing the Deployment Deliverables.
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
